@@ -18,4 +18,4 @@ while True:
                 if num > random_num:
                     print('your guess is higher')
         else:
-            print('wrong input')
+            print('wrong input,please enter again')
